@@ -1,2 +1,2 @@
-# opencv_webcam_monitoring
+# OpenCV Webcam Monitoring with Python
 Webcam Monitoring App using OpenCV in python
